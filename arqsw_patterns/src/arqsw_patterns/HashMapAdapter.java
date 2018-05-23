@@ -1,3 +1,4 @@
+
 package arqsw_patterns;
 
 import java.io.Serializable;

@@ -1,3 +1,4 @@
+
 package exercicio6_2;
 
 public class InsertSort implements Ordenacao{
